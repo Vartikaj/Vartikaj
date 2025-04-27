@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Vartika, a Project Engineer at C-DAC with a passion for building efficient, scalable, and innovative solutions. Here’s a little bit about me:
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on **Center for Development of Advance Computing**
 
