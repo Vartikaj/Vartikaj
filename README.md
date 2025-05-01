@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Vartika, a Project Engineer at C-DAC with a pa
 </br>
 <h3 align="left">📊Github Status</h3>
 <a href='https://github.com/Vartikaj/github-stats-transparent'>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 ![Stats Overview](https://raw.githubusercontent.com/Vartikaj/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Vartikaj/github-stats-transparent/output/generated/languages.svg)
 
